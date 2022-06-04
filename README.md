@@ -1,15 +1,14 @@
 # 01CodeRefactor
 
 ## Description
-class weekly challenge
+Class homework. 
 
 ## Task
-Update page with accessability options and semantic HTML elements.
+Update an existing site riddled with errors and repaired with accessability options and semantic HTML elements.
 
 ## Improvements Made
-changed div elements to semantic elements. 
-Reduced CSS file size by consolidating duplicate classes.
+* Changed div elements to semantic elements. 
+* Reduced CSS file size by consolidating duplicate classes.
+ 
 
-
-## Website
-https://dustinturp.github.io/01CodeRefactor/
+[live on GitHub Pages](https://dustinturp.github.io/01CodeRefactor/)
